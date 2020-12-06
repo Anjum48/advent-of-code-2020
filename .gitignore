@@ -137,7 +137,7 @@ idea/
 *.csv.gz
 *.tar.gz
 *.pt
-*.txt
+# *.txt
 *.zip
 *.mp4
 *.dat
